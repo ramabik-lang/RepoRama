@@ -6,8 +6,7 @@ Repo utama untuk menyimpan file LIPITA, sertifikat, dokumentasi sekolah, dan ase
 | Folder | Isi |
 |--------|-----|
 | `lipita/` | Data Excel LIPITA |
-| `sertifikat/` | Sertifikat siswa |
-| `documents/` | PDF, dokumen sekolah |
+| `documents/` | PDF |
 | `images/` | Chart, flowchart, screenshot |
 | `scripts/` | Python, macro, tools |
 
